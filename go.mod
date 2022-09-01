@@ -1,4 +1,4 @@
-module github.com/xiaosongfu/ethsign-go
+module github.com/xiaosongfu/ethsign
 
 go 1.18
 
